@@ -11,7 +11,12 @@ Um [exemplo](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/m
 
 Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400 [M_400_NTIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_NTIP.pdf), [M_400_TIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_TIP.pdf).
 
-Um exemplo de percolação invasiva [3D](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/3D_3.png)
+[![TIP_NTIP_400.png](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/TIP_NTIP_400.png)](https://github.com/jonathanAmancioSales/Invasion_Percolation/tree/main/Results%20(Images%2C%20movie))
+
+
+Um exemplo de percolação invasiva:
+
+[![3D](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/3D.png)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/3D_3.png)
 
 
 Pseudo código do algoritmo de percolação invasiva:
