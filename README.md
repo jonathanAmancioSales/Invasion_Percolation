@@ -9,14 +9,14 @@ Por fim, apresento o código em C++ utilizado para gerar os resultados apresenta
 Um [exemplo](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138.pdf) de percolação invasiva sem aprisionamento em uma rede de 1024:
 [![M_1024_255138_80fps.gif](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)
 
-Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400 [M_400_NTIP.pdf](link_img) [M_400_TIP.pdf](link_img).
+Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400 [M_400_NTIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_NTIP.pdf), [M_400_TIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_TIP.pdf).
 
 Um exemplo de percolação invasiva [3D](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/3D_3.png)
 
 
 Pseudo código do algoritmo de percolação invasiva:
 ```
-Algoritmo: Invasion_Percolation
+Algoritmo Invasion_Percolation:
 1 inicio:
     2 Preencher a matriz aleatoriamente: r_i ∈ [0, 1];
     3 Definir invasores;
