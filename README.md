@@ -31,4 +31,4 @@ Algoritmo Invasion_Percolation:
 Neste [link](https://www.youtube.com/watch?v=yciAPJsy17Q), você pode ver um pequeno vídeo mostrando como funciona o algoritmo Priority Heap.
 E [aqui](http://btv.melezinek.cz/binary-heap.html), você pode ver o funcionamento desse algoritmo de forma interativa.
 
-![melezinek](https://lh3.googleusercontent.com/proxy/FwCScij627P4LXWR0EGz-8JCS63z7lUB8G8FIGVxBDgsnn9yql6DixZnBk0BfqvUslwsxnlguNkFMt0D029l1l2rcbqK5dgMJXrQpnVDsA)
+[![melezinek](https://lh3.googleusercontent.com/proxy/FwCScij627P4LXWR0EGz-8JCS63z7lUB8G8FIGVxBDgsnn9yql6DixZnBk0BfqvUslwsxnlguNkFMt0D029l1l2rcbqK5dgMJXrQpnVDsA)](http://btv.melezinek.cz/binary-heap.html)
