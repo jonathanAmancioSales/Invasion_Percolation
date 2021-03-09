@@ -2,22 +2,16 @@
 
 Neste repositório estou disponibilizando um trabalho que eu fiz sobre _Percolação Invasiva_ utilizando o algoritmo **Priority Heap** para a disciplina _Métodos Avançados de Algoritmos e Estruturas de Dados_.
 
-[Aqui](link) você pode ver um _relatório_ sobre esse trabalho, onde abordo um pouco da teoria da percolação invasiva e apresento os principais resultados obtidos.
+[Aqui](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Relat%C3%B3rio%20-%20Percola%C3%A7%C3%A3o%20Invasiva%20%5BJonathan%20Sales%5D_2018.11.06.pdf) você pode ver um _relatório_ sobre esse trabalho, onde abordo um pouco da teoria da percolação invasiva e apresento os principais resultados obtidos.
 Também apresento o algoritmo Priority Heap, que torna o algoritmo de percolação invasiva muito eficiente.
 Por fim, apresento o código em C++ utilizado para gerar os resultados apresentados e as referências bibliográficas.
 
-Um exemplo de percolação invasiva sem aprisionamento em uma rede de 1024x1024:
-![M_1024_255138.pdf](link)
-![M_1024_255138_80fps.gif](link)
+Um [exemplo](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138.pdf) de percolação invasiva sem aprisionamento em uma rede de 1024:
+[![M_1024_255138_80fps.gif](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)
 
+Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400 [M_400_NTIP.pdf](link_img) [M_400_TIP.pdf](link_img).
 
-Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400:
-[![M_400_NTIP.pdf](link_img)](link)
-[![M_400_TIP.pdf](link_img)](link)
-
-
-Um exemplo de percolação invasiva 3D:
-[![3D_3.png](link_img)](link)
+Um exemplo de percolação invasiva [3D](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/3D_3.png)
 
 
 Pseudo código do algoritmo de percolação invasiva:
