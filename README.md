@@ -9,7 +9,7 @@ Por fim, apresento o código em C++ utilizado para gerar os resultados apresenta
 Um [exemplo](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138.pdf) de percolação invasiva sem aprisionamento em uma rede de 1024:
 [![M_1024_255138_80fps.gif](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)
 
-Comparação visual entre os modelos de percolação invasiva com e sem aprisionamento para uma rede bimensional de lado L=400: [M_400_NTIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_NTIP.pdf), [M_400_TIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_TIP.pdf).
+Comparação visual entre os modelos de percolação invasiva sem e com aprisionamento para uma rede bimensional de lado L=400: [M_400_NTIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_NTIP.pdf), [M_400_TIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_TIP.pdf).
 
 [![TIP_NTIP_400.png](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/TIP_NTIP_400.png)](https://github.com/jonathanAmancioSales/Invasion_Percolation/tree/main/Results%20(Images%2C%20movie))
 
