@@ -7,7 +7,7 @@ Também apresento o algoritmo Priority Heap, que torna o algoritmo de percolaç�
 Por fim, apresento o código em C++ utilizado para gerar os resultados apresentados e as referências bibliográficas.
 
 Um [exemplo](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138.pdf) de percolação invasiva sem aprisionamento em uma rede de 1024:
-[![M_1024_255138_80fps.gif](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138_80fps.gif)
+[![M_1024_255138_80fps.gif](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/M_1024_255138.gif)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_1024_255138.gif)
 
 Comparação visual entre os modelos de percolação invasiva sem e com aprisionamento para uma rede bimensional de lado L=400: [M_400_NTIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_NTIP.pdf), [M_400_TIP.pdf](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/M_400_TIP.pdf).
 
@@ -18,6 +18,9 @@ Um exemplo de percolação invasiva 3D:
 
 [![3D](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/3D.png)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/3D_3.png)
 
+Um exemplo de percolação invasiva onde a fronteira é mostrada:
+
+[![fronteira](https://raw.githubusercontent.com/jonathanAmancioSales/Invasion_Percolation/main/Results%20(Images%2C%20movie)/P_2001_201545_1535388302.png)](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/P_2001_201545_1535388302.eps)
 
 Pseudo código do algoritmo de percolação invasiva:
 ```
@@ -36,4 +39,4 @@ Algoritmo Invasion_Percolation:
 Neste [link](https://www.youtube.com/watch?v=yciAPJsy17Q), você pode ver um pequeno vídeo mostrando como funciona o algoritmo Priority Heap.
 E [aqui](http://btv.melezinek.cz/binary-heap.html), você pode ver o funcionamento desse algoritmo de forma interativa.
 
-[![melezinek](https://lh3.googleusercontent.com/proxy/FwCScij627P4LXWR0EGz-8JCS63z7lUB8G8FIGVxBDgsnn9yql6DixZnBk0BfqvUslwsxnlguNkFMt0D029l1l2rcbqK5dgMJXrQpnVDsA)](http://btv.melezinek.cz/binary-heap.html)
+[![melezinek](https://github.com/jonathanAmancioSales/Invasion_Percolation/blob/main/Results%20(Images%2C%20movie)/BSTinsert1.png)](http://btv.melezinek.cz/binary-heap.html)
